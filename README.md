@@ -3,7 +3,7 @@
 In astrophotography, stacking, also known as integration, is all about increasing the signal-to-noise ratio (SNR) of your images; in other words, increasing the signal that you do want and reducing the noise you don’t.
 Unwanted noise in a typical image tends to be random across different exposures whereas the desired signal is consistent.
 
-![alt text](https://kevinrfrancis.com/wp-content/uploads/2019/11/M31_Andromeda-Galaxy_noisecomparison_web.jpg?raw=true)
+![alt text](https://kevinrfrancis.com/wp-content/uploads/2019/11/M31_Andromeda-Galaxy_noisecomparison_web.jpg)
 
 When a set of images is stacked, the individual image values are averaged, which means that the random noise overall diminishes but the signal remains constant.
 
