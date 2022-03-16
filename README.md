@@ -12,7 +12,7 @@ This means that the ratio of the signal to the noise increases, resulting in a m
 ## My Work...
 
 I took some images from my phone with ISO set to 200 and Shutter speed to 10.\
-The images are of 3468*4627.So if you want to see all the stars then you should download images, max your brightness and zoom.
+The images are of 3468*4627 pixels.So if you want to see all the stars then you should download images, max your brightness and zoom.
 
 #### Before
 
